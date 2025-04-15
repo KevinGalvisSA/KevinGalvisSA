@@ -18,9 +18,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **JavaScript, React, SQL, Nodejs, MongoDB, Python, PostgreSQL**
+- 🔭 I’m currently working on **JavaScript, React, SQL, Nodejs, MongoDB, Python**
 
-- 🌱 I’m currently learning **Tailwind, NextJS, Angular and deployment enhancements.**
+- 🌱 I’m currently learning **Tailwind, NextJS, Angular, PostgreSQL and deployment enhancements.**
+
+- 🌱 I would like to learn **Docker **
 
 - 📫 Feel free to reach me out **kesangari201006@gmail.com**
 
@@ -39,7 +41,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,css,html,discord,postgres,express,nodejs,js,figma,linux,md,mongodb,mysql,py,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,css,html,discord,express,nodejs,js,figma,linux,md,mongodb,mysql,py,react,vscode&perline=14" />
   </a>
 </p>
 
