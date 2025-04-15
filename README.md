@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Tailwind, NextJS, Angular, PostgreSQL and deployment enhancements.**
 
-- 🌱 I would like to learn **Docker **
+- 🌱 I would like to learn **Docker, Java, Redux, AWS**
 
 - 📫 Feel free to reach me out **kesangari201006@gmail.com**
 
