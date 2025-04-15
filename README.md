@@ -18,11 +18,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **JavaScript, React, SQL, Nodejs, MongoDB, Python**
+- 👨🏻‍💻 I’m currently working on **JavaScript, React, SQL, Nodejs, MongoDB, Python**
 
-- 🌱 I’m currently learning **Tailwind, NextJS, Angular, PostgreSQL and deployment enhancements.**
+- 👩🏻‍🏫 I’m currently learning **Tailwind, NextJS, Angular, PostgreSQL and deployment enhancements.**
 
-- 🌱 I would like to learn **Docker, Java, Redux, AWS**
+- 📚 I would like to learn **Docker, Java, Redux, AWS**
 
 - 📫 Feel free to reach me out **kesangari201006@gmail.com**
 
