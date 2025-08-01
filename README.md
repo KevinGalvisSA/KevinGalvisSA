@@ -35,4 +35,12 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinGalvisSA/KevinGalvisSA/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinGalvisSA/KevinGalvisSA/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KevinGalvisSA/KevinGalvisSA/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ✨ *“Always learning, always building. Let’s connect and create something amazing together!”*
